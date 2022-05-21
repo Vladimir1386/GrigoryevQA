@@ -1,0 +1,17 @@
+Font	Size	Font style	Font color	Underline style
+Palatino linotype	10	Regular	Black	none
+Palatino linotype	5	Bold italic	Black	none
+Palatino linotype	12	italic	Black	none
+Palatino linotype	5	Regular	Black	none
+Palatino linotype	5	italic	Black	none
+Palatino linotype	10	Bold italic	Black	none
+Palatino linotype	10	italic	Black	none
+Palatino linotype	13	italic	Black	none
+Palatino linotype	12	Regular	Black	none
+Palatino linotype	12	Bold	Black	none
+Palatino linotype	5	Bold	Black	none
+Palatino linotype	13	Regular	Black	none
+Palatino linotype	10	Bold	Black	none
+Palatino linotype	13	Bold	Black	none
+Palatino linotype	13	Bold italic	Black	none
+Palatino linotype	12	Bold italic	Black	none
